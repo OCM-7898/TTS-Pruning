@@ -69,11 +69,17 @@ python main.py \
 To use wanda pruning just change magnitude to wanda for the above commands.
 
 ## Evaluation
-Ensure the correct filepath is given in the bash files 
+Ensure the correct filepath for model save location is given in the bash files 
 
 ```
 cd Modified-Layer-Pruning-Harms-Inference-Scaling
 ```
+
+```
+sh ./eval/eval_sequential_scaling.sh
+```
+
+
 
 
 
