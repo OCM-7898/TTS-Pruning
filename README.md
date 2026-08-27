@@ -1,6 +1,9 @@
 # TTS-Pruning
 Our codebase used to produce the results for the paper Doing More With Less: Revisiting the Effectiveness of LLM Pruning for Test-Time Scaling.
 
+[![EMNLP 2026](https://img.shields.io/badge/EMNLP-2026-blue)]
+[![Arxiv](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2604.25098)
+[![GitHub Stars](https://img.shields.io/github/stars/OCM-7898/TTS-Pruning?style=social)](https://github.com/OCM-7898/TTS-Pruning/stargazers)
 ## Install dependencies
 
 ```
