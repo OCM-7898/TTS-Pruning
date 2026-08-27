@@ -1,5 +1,5 @@
-# TTS-Pruning
-Our codebase used to produce the results for the paper Doing More With Less: Revisiting the Effectiveness of LLM Pruning for Test-Time Scaling.
+# Revisiting the Effectiveness of LLM Pruning for Test-Time Scaling.
+Our codebase used to produce the results for the paper Revisiting the Effectiveness of LLM Pruning for Test-Time Scaling which is accepted for publication at EMNLP 2026 Findings.
 
 [![EMNLP 2026](https://img.shields.io/badge/EMNLP-2026-blue)](https://github.com/OCM-7898/TTS-Pruning)
 [![Arxiv](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2604.25098)
